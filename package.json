@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/qwenwu/testNpmModuleA/issues"
   },
-  "homepage": "https://github.com/qwenwu/testNpmModuleA#readme"
+  "homepage": "https://github.com/qwenwu/testNpmModuleA#readme",
+  "dependencies": {
+    "testnpmmodulec": "^1.1.0"
+  }
 }
